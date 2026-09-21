@@ -419,7 +419,7 @@ ecommerce-data-analytics/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/thangnguyennbk-sys/ecommerce-data-analytics.git
 cd ecommerce-data-analytics
 ```
 
@@ -533,3 +533,7 @@ Potential extensions include:
 **Nguyễn Mạnh Thắng**
 
 Data Analytics / Data Science Portfolio Project
+
+GitHub: [thangnguyennbk-sys](https://github.com/thangnguyennbk-sys)
+
+Repository: [ecommerce-data-analytics](https://github.com/thangnguyennbk-sys/ecommerce-data-analytics)
